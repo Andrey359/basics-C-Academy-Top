@@ -76,7 +76,7 @@ class MainClass
     {
         Product product = Product.CreateRandom();
         Console.WriteLine(product);
-        Console.WriteLine (Util.RandomString(1));
+        Console.WriteLine (Util.RandomString(45));
     }
     
 }
